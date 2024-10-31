@@ -38,13 +38,6 @@
     🤔 I’m currently open for: <b>Remote</b> opportunities</b>, Here you are my <a href="https://drive.google.com/file/d/1NzDG6PElpaqqKDuS5rOSqHYI_PsSvpUz/view?usp=sharing" target="_blank">My Resume.</a>
   </pre>
 
-  ## 🤝 Connect with me
-  <p align="center">
-	<a href="mailto:madepozo.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/madepozo/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/dev-madepozo"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
   ### 🛠 &nbsp;Tech Stack
 
   <p align="center">
@@ -53,13 +46,36 @@
 
   </p>
 
-
   ## My Statistics
 
-  <p align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=dev-madepozo&theme=react&show_icons=true&hide_border=true&count_private=true" alt="dev-madepozo's Stats" />
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-madepozo&theme=react&hide_border=true" alt="dev-madepozo's Stats" />
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-madepozo&theme=react&show_icons=true&hide_border=true&layout=compact" alt="dev-madepozo's Top Languages" />
-  </p>
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=dev-madepozo&theme=react&show_icons=true&hide_border=true&count_private=true" alt="dev-madepozo's Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-madepozo&theme=react&hide_border=true" alt="dev-madepozo's Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-madepozo&theme=react&show_icons=true&hide_border=true&layout=compact" alt="dev-madepozo's Top Languages" />
+      </td>
+    </tr>
+  </table>
 
+  <div align="center">
+    <h3><b>Can Connect With Me On</b></h3>
+  </div>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/madepozo/" target="_blank">
+      <img align="center" alt="Manuel Del Pozo | Linkedin" width="24px" src="/assets/Linkedin.svg" />
+    </a> &nbsp;&nbsp;
+    <a href="https://www.instagram.com/madepozo/" target="_blank">
+      <img align="center" alt="Manuel Del Pozo | Instagram" width="24px" src="/assets/instagram.svg" />
+    </a> &nbsp;&nbsp;
+    <a href="mailto:madepozo.dev@gmail.com" >
+      <img align="center" alt="Manuel Del Pozo | Gmail" width="26px" src="/assets/gmail.svg" />
+    </a> &nbsp;&nbsp;
+    <a href="https://www.facebook.com/madepozo">
+      <img align="center" alt="Manuel Del Pozo | Facebook" width="24px" src="/assets/facebook.png" />
+    </a> &nbsp;&nbsp;
+  <p>
 </div>
