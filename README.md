@@ -66,7 +66,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/madepozo/" target="_blank">
-      <img align="center" alt="Manuel Del Pozo | Linkedin" width="24px" src="/assets/Linkedin.svg" />
+      <img align="center" alt="Manuel Del Pozo | Linkedin" width="24px" src="/assets/linkedin.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://www.instagram.com/madepozo/" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Instagram" width="24px" src="/assets/instagram.svg" />
