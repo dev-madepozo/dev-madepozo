@@ -65,7 +65,6 @@
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
     <code><img width="44" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/268487504-e5fe87f3-f2ee-419d-8299-14dc573f3603.png" alt="Bulma" title="Bulma"/></code>
-    <code><img width="44" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="Ant Design" title="Ant Design"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
@@ -80,6 +79,12 @@
     <code><img width="44" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
     <code><img width="44" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/></code>
     <code><img width="44" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="Astro" title="Astro"/></code>
+    <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+    <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
+    <code><img width="44" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" alt="styled-components" title="styled-components"/></code>
+    <code><img width="44" src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="ShadCn UI" title="ShadCn UI"/></code>
+    <code><img width="44" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e98ed313-79fd-4707-b17f-277af051c9e0" alt="Backbone.js" title="Backbone.js"/></code>
+    <code><img width="44" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba" alt="Pug" title="Pug"/></code>
   </div>
 
   #### Backend
@@ -106,6 +111,7 @@
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code>
+    <code><img width="44" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
     <code><img width="44" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></code>
@@ -136,16 +142,16 @@
   </div>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/madepozo/" target="_blank">
+    <a href="https://www.linkedin.com/in/madepozo/" target="_blank" style="font-size: 0;">
       <img align="center" alt="Manuel Del Pozo | Linkedin" width="24px" src="/assets/linkedin.svg" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/madepozo/" target="_blank">
+    <a href="https://www.instagram.com/madepozo/" target="_blank" style="font-size: 0;">
       <img align="center" alt="Manuel Del Pozo | Instagram" width="24px" src="/assets/instagram.svg" />
     </a>&nbsp;&nbsp;
-    <a href="mailto:madepozo.dev@gmail.com" >
+    <a href="mailto:madepozo.dev@gmail.com" style="font-size: 0;">
       <img align="center" alt="Manuel Del Pozo | Gmail" width="26px" src="/assets/gmail.svg" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/madepozo">
+    <a href="https://www.facebook.com/madepozo" target="_blank" style="font-size: 0;">
       <img align="center" alt="Manuel Del Pozo | Facebook" width="24px" src="/assets/facebook.png" />
     </a>&nbsp;&nbsp;
   <p>
