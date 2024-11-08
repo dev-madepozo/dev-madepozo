@@ -144,15 +144,15 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/madepozo/" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Linkedin" width="24px" src="/assets/linkedin.svg" />
-    </a>&nbsp;&nbsp;
+    </a> &nbsp;
     <a href="https://www.instagram.com/madepozo/" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Instagram" width="24px" src="/assets/instagram.svg" />
-    </a>&nbsp;&nbsp;
+    </a> &nbsp;
     <a href="mailto:madepozo.dev@gmail.com">
       <img align="center" alt="Manuel Del Pozo | Gmail" width="26px" src="/assets/gmail.svg" />
-    </a>&nbsp;&nbsp;
+    </a> &nbsp;
     <a href="https://www.facebook.com/madepozo" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Facebook" width="24px" src="/assets/facebook.png" />
-    </a>
+    </a> &nbsp;
   <p>
 </div>
