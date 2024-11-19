@@ -34,7 +34,7 @@
     📝 I have a strong interest Web development and Data Science
     🌱 Learning about new technologies for web development and Data Science
     🌟 Main languages: JavaScript, TypeScript, Python, Java, C
-    🚩 Interested in Full Stack Application development
+    🚩 Interested in Software development
     🤔 I’m currently open for: <b>Remote</b> opportunities</b>, Here you are my <a href="https://drive.google.com/file/d/1NzDG6PElpaqqKDuS5rOSqHYI_PsSvpUz/view?usp=sharing" target="_blank">My Resume.</a>
   </pre>
 
