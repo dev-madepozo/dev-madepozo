@@ -35,7 +35,7 @@
     🌱 Learning about new technologies for web development and Data Science
     🌟 Main languages: JavaScript, TypeScript, Python, Java, C
     🚩 Interested in Software development
-    🤔 I’m currently open for: <b>Remote</b> opportunities</b>, Here you are my <a href="https://drive.google.com/file/d/1NzDG6PElpaqqKDuS5rOSqHYI_PsSvpUz/view?usp=sharing" target="_blank">My Resume.</a>
+    🤔 I’m currently open for: <b>Remote</b> opportunities</b>, Here you are my <a href="https://drive.google.com/file/d/1CMdracfBjcEs23Sw-UsUa97ZXIeEV6vn/view?usp=sharing" target="_blank">My Resume.</a>
   </pre>
 
   ### 🛠 &nbsp;Tech Stack
@@ -144,15 +144,15 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/madepozo/" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Linkedin" width="24px" src="/assets/linkedin.svg" />
-    </a> &nbsp;
+    </a>
     <a href="https://www.instagram.com/madepozo/" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Instagram" width="24px" src="/assets/instagram.svg" />
-    </a> &nbsp;
+    </a>
     <a href="mailto:madepozo.dev@gmail.com">
       <img align="center" alt="Manuel Del Pozo | Gmail" width="26px" src="/assets/gmail.svg" />
-    </a> &nbsp;
+    </a>
     <a href="https://www.facebook.com/madepozo" target="_blank">
       <img align="center" alt="Manuel Del Pozo | Facebook" width="24px" src="/assets/facebook.png" />
-    </a> &nbsp;
+    </a>
   <p>
 </div>
