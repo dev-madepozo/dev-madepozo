@@ -11,7 +11,7 @@
 
     class Madepozo {
       name = 'Manuel Del Pozo'
-      title = 'Software Developer'
+      title = 'Software Engineer'
       location = 'Lima, Perú'
       email = 'madepozo.dev@gmail.com'
       linkedin = 'https://www.linkedin.com/in/madepozo/'
