@@ -10,7 +10,7 @@
   ```js
 
     class Madepozo {
-      name = 'Manuel Del Pozo'
+      name = 'Manuel Del Pozo Matias'
       title = 'Software Engineer'
       location = 'Lima, Perú'
       email = 'madepozo.dev@gmail.com'
